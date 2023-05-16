@@ -81,7 +81,7 @@ Train each network with configurations:
 4. Results
 
 
- \  | VGG16 | EfficientNet | DenseNet
+   | VGG16 | EfficientNet | DenseNet
 --- | --- | --- | ---
 Accuracy | **86.88%**| 84.28%|83.12
 
